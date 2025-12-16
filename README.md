@@ -1,2 +1,2 @@
-# HTML Reference Notebook
-A comprehensive HTML notebook containing annotated examples, semantic elements, common patterns, and usage guidelines. Built to serve as a long-term reference for both beginners and intermediate developers.
+# End-to-End Web Development Journal
+A learning and reference notebook that tracks the complete web application lifecycle. Focused on integrating front-end technologies with back-end services, databases, authentication, and production deployment.
